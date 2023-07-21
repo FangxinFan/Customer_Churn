@@ -42,7 +42,10 @@ Power BI and Jupyter Notebook
 
 ## Results
 
-The older customers are, the high probability of churn rate. 
+- Identified significant factors contributing to customer churn.
+- Highlighted opportunities to enhance customer experience and loyalty.
+- Developed a predictive model with 86% accuracy to identify customers at risk of churn.
+- Discovered customer segments with higher churn rates and provided tailored retention strategies.
 
 ## Contact
 
