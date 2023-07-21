@@ -7,8 +7,8 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [![image](https://github.com/FangxinFan/Customer_Churn/assets/139981483/f8869a8b-f178-4971-89a3-f82828275cc5)
+](#contact)
 
 ## Introduction
 In the banking industry, customer retention plays a pivotal role in maintaining a competitive edge. The objective of this project is to develop a predictive model that effectively identifies customers at risk of churn and also by leveraging advanced analytics and machine learning techniques to empower the bank with proactive measures for customer retention.
@@ -44,3 +44,7 @@ Power BI and Jupyter Notebook
 ## Results
 
 The older customers are, the high probability of churn rate. 
+
+## Contact
+
+LinkedIn Profile: http://linkedin.com/in/fangxin-fan-frances
