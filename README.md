@@ -47,6 +47,8 @@ Power BI and Jupyter Notebook
 - Developed a predictive model with 86% accuracy to identify customers at risk of churn.
 - Discovered customer segments with higher churn rates and provided tailored retention strategies.
 
+For detailed analysis and insights, please refer to bank_customer_churn_analysis.ipynb  b in the repository.
+
 ## Contact
 
 LinkedIn Profile: http://linkedin.com/in/fangxin-fan-frances
